@@ -60,6 +60,10 @@ for other markets are the most valuable thing you can add — see [CONTRIBUTING.
 
 ## Installation
 
+**Quick install:** download the latest `.skill` file from
+[Releases](https://github.com/blindmagnet/idea-reality-check/releases)
+and add it in Claude → Settings → Capabilities → Skills.
+
 **Claude Code / Claude Desktop**
 
 ```bash
